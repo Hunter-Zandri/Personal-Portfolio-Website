@@ -16,3 +16,5 @@ What was learned
 I learned a lot more about layering with HTML and how to properly use CSS flex boxes, pseudo elements, and media queries. I learned more about how to properly organize a website from scratch so it's UI is intuitive to the user.
 
 Project pictures:
+![image](https://user-images.githubusercontent.com/86785668/134823867-c4ccee34-32fc-4b89-83e4-d1db4808a4d4.png)
+
