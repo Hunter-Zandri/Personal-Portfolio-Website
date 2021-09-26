@@ -1,10 +1,10 @@
-#Title
+Title
 This projects title is Portfolio Website and it is a website I made from scratch using my new found HTML and CSS coding skills so that it follows accessibility standards.
 
-#Languages
+Languages
 Used HTML and CSS to create this website.
 
-#Objective
+Objective
 Created a website with working navigation links.
 Integrate semantic HTML elements into the index.html.
 Include Alt attributes for the sourced images.
